@@ -12,6 +12,3 @@ Take for granted that everything in this repo might be terribly broken &/or bad 
 "QuadWatcher" is a java gui application that display the quad status and take user input from an XBOX360 controller
 
 "relay" is an arduino uno firmware that use an NRF24L01 and usb serial to relay control data from QuadWatcher to quad
-
-
-These programs are developed on Arch Linux.
