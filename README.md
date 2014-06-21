@@ -14,4 +14,4 @@ Take for granted that everything in this repo might be terribly broken &/or bad 
 "relay" is an arduino uno firmware that use an NRF24L01 and usb serial to relay control data from QuadWatcher to quad
 
 
-These programs has been developed on Debian and Arch Linux.
+These programs are developed on Arch Linux.
